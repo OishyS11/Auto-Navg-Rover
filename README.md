@@ -1,2 +1,2 @@
 # Auto-Navg-Rover
-The repository contains the codes of the project
+Auto-Navg-Rover is a comprehensive robotics project developed to enable a ground rover to navigate autonomously in known or unknown indoor/outdoor environments. The system leverages the Robot Operating System (ROS) framework to orchestrate sensing, mapping, localization, path planning, and motion control—all within simulation and real-world deployment modes. The repository contains modular packages for vehicle description, world configuration, sensor simulation, launch setups, and maps.
